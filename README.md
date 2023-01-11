@@ -5,11 +5,11 @@ such as  classes, loops, arrays, arrays of objects, static attributes and static
 
 # General Guidelines When Writing Programs:
 -	Introduce the following comments at the top of your source codes
-//------------------------------------------------
+<pre>//------------------------------------------------
 // Project (number)
 // © Your Name
 // Written by: (your name and student id)
-//------------------------------------------------
+//------------------------------------------------</pre>
 -	In a comment, give a general explanation of what your program does. As well as programming questions get more intricate, provide extra explanations is required.
 -	Add comments to your program outlining the key steps of your program.
 -	Show clear messages for users when waiting for them to input data from the keyboard.
