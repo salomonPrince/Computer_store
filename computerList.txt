@@ -1,0 +1,32 @@
+List of PC(s) in 'Prince Computers' store:
+
+-------------------------------
+1. Computer:
+		Brand: Windows
+		Model: Intel core i8
+		Serialnumber: 1000001
+		Price: $1299.99
+-------------------------------
+2. Computer:
+		Brand: MacBook
+		Model: Apple Macbook Air(m2,2022)
+		Serialnumber: 1370001
+		Price: $1349.99
+-------------------------------
+3. Computer:
+		Brand: Windows
+		Model: Intel core i8
+		Serialnumber: 1000002
+		Price: $1299.99
+-------------------------------
+4. Computer:
+		Brand: Microsoft
+		Model: Surface Laptop 4
+		Serialnumber: 3100047
+		Price: $1599.99
+-------------------------------
+5. Computer:
+		Brand: 
+		Model: 
+		Serialnumber: 2663458
+		Price: $1399.99
